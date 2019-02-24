@@ -8,7 +8,9 @@ int main() {
 	cout << "\nEnter the number of minutes: ";
 	cin >> minute;
 	displayTime(hour, minute);
-
+	
+	cout>>"Sam is cool">>endl;
+	
 	while (1) getchar();
 	return 0;
 }
